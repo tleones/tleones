@@ -5,5 +5,5 @@
 
 ![Tleones GitHub stats](https://github-readme-stats.vercel.app/api?username=tleones&show_icons=true&theme=great-gatsby)
 
-##Softwares que eu tenho utilizado no meu aprendizado:
-##Softwares I have been using in my studies:
+## Softwares que eu tenho utilizado no meu aprendizado:
+## Softwares I have been using in my studies:
