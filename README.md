@@ -5,4 +5,4 @@
 
 [![alura](https://img.shields.io/badge/alura-darkblue?style=for-the-badge)](https://cursos.alura.com.br/user/tomasleones)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Tleones GitHub stats](https://github-readme-stats.vercel.app/api?username=tleones&show_icons=true&theme=radical)
