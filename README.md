@@ -10,9 +10,11 @@
 ## What I have been using in my studies:
 
 <div style="display: inline_block"><br/>
+    <img align="center" alt="Python" src="https://github.com/Ileriayo/markdown-badges#:~:text=https%3A//img.shields.io/badge/python%2D3670A0%3Fstyle%3Dfor%2Dthe%2Dbadge%26logo%3Dpython%26logoColor%3Dffdd54"/>
+    <img align="center" alt="Azure" src="[https://github.com/Ileriayo/markdown-badges#:~:text=https%3A//img.shields.io/badge/python%2D3670A0%3Fstyle%3Dfor%2Dthe%2Dbadge%26logo%3Dpython%26logoColor%3Dffdd54](https://github.com/Ileriayo/markdown-badges#:~:text=https%3A//img.shields.io/badge/azure%2D%25230072C6.svg%3Fstyle%3Dfor%2Dthe%2Dbadge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite)"/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+
 </div>
