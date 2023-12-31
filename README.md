@@ -1,4 +1,3 @@
-### Olá! Eu sou o Tomás Leones.👋
 ### Hi! I am Tomás Leones.👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -6,7 +5,6 @@
 
 ![Tleones GitHub stats](https://github-readme-stats.vercel.app/api?username=tleones&show_icons=true&theme=great-gatsby)
 
-## Eu tenho utilizado o seguinte no meu aprendizado:
 ## What I have been using in my studies:
 
 <div style="display: inline_block"><br/>
@@ -23,6 +21,13 @@
     <img align="center" alt="Innoveo" src="https://img.shields.io/badge/Innoveo-000000?style=for-the-badge&logoColor=white" />
     <img align="center" alt="Pegasystems" src="https://img.shields.io/badge/Pegasystems-FFFFFF?style=for-the-badge&logoColor=005CFF" />
 </div>
+
+### About Me 🌟
+- Fluent in English 🌐
+- Developer at SIS Innov & Tech 💻
+- Studying Analysis and Systems Development at Estácio 📚
+- Backend studies in JavaScript and TypeScript at ADA Tech ⚙️
+- Graduated in Portuguese Language and Literature from the University of Brasília 🎓
 
 </div>
 
